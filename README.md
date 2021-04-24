@@ -7,5 +7,5 @@ Licensed under [the MIT license](./LICENSE).
 
 ## Author
 
-skudo
+skudo(KUDO Shunsuke)
 
